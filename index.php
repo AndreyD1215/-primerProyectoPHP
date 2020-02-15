@@ -21,4 +21,6 @@
     print("<br>");
     echo("Mi Nombre Es ".$nombre. " y mi edad es ".$edad);
 
+    $costo=5;
+
 ?>
